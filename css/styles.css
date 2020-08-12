@@ -1,0 +1,16 @@
+body {
+    background-color: #FAF3DD;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+hr {
+    border-style: none;
+    border-color: #8FC0E9;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1,h3 {
+    color: #68B0AB;
+    
+}
